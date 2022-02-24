@@ -1,0 +1,5 @@
+-> Using Git Hub Actions Might be Monetized in future
+-> May be we can use different machanism ( jenkins server )
+-> GitHub blocks pushes that exceed 100 MB
+-> Migration to different storage ( On premises storage )
+-> Artifacts Versions
