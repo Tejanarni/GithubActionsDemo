@@ -1,5 +1,5 @@
 -> Using Git Hub Actions Might be Monetized in future
 -> May be we can use different machanism ( jenkins server )
--> GitHub blocks pushes that exceed 100 MB
+-> GitHub blocks pushes that exceed 100 MB File
 -> Migration to different storage ( On premises storage ) can be challenging
 -> Artifacts Versions will occupy more space in versioning
