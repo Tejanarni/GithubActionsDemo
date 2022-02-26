@@ -12,7 +12,7 @@ jobs:
     - uses: actions/checkout@master
     - uses: Tejanarni/s3-sync-action@master
       with:
-        args: --acl public-read --delete --exclude "*/var/*" --exclude "*/cache/*" --exclude "*/cache/*" --exclude "*/statistics/*" --exclude "*/includes/src/*" --exclude "*/logs/*"
+        args: --acl public-read aws s3 sync . s3://s3demo123
       env:
         AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
