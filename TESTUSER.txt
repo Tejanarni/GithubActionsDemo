@@ -1,0 +1,17 @@
+Secret access key
+
+zooFBTXdpK0cFMOQB71z+8A7Z7QJ0eaWfE19fxdy
+
+Access key ID
+
+AKIAX5R2OQ2X2ER4NANF
+
+usecae2
+
+- Develop branch: 
+
+Build & Branch Policies, pull request Validation. Approval Request
+
+u3
+
+I am USER 
